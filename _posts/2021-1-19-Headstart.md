@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: My DevOps Journey
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This blog will be dedicated to be a guide to people of all levels of knowledge on how to become a successful DevOps professional.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
